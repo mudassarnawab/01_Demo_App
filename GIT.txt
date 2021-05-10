@@ -16,5 +16,15 @@ Un-staged files: Modified files will be displyed hare, we need to stage it to co
 Un-tracked Files: Newly Created files need to be staged before commiting. (dispalyed in RED color)
 
 5. git add <file-name> --> This command is used to stagged the file.
+6. git add --a --> If you wanyt to add all files to staged area together.
 
 Stage AREA: the are where a file becomes eligible to commit is called stage.
+7.git rm --cached <file-name>: to remove file from staged area to unstaged area.
+8.git commit -m 'meassge'--> this command will commit your files to local repository
+Note: Local repo in there in our machine only.
+Note: when we execute commit command all files in staging area will be commmitted.
+
+10. git remote add origin https://github.com/mudassarnawab/01_Demo_App.git--> Only for first time
+11.git push -u origin master--> will commit the code in  git reomte repo.
+
+
