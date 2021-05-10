@@ -25,6 +25,7 @@ Note: Local repo in there in our machine only.
 Note: when we execute commit command all files in staging area will be commmitted.
 
 10. git remote add origin https://github.com/mudassarnawab/01_Demo_App.git--> Only for first time
-11.git push -u origin master--> will commit the code in  git reomte repo.
+11.git push -u origin master--> will commit the code in  git reomte repo.---> Only fot first time
+from next time just use-->git push
 
 
