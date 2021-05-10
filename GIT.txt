@@ -1,0 +1,20 @@
+                                                     GIT AND GIT HUB
+                                                    =================
+
+https://github.com/mudassarnawab/01_Demo_App.git
+
+GIT BASH COMMANDS
+-----------------
+1. git help--> It provides frequenty used git commands.
+2. git help <cmd-name>--> it provides the documentation of the particular command.
+3. git init--> It is used to create and empty repestory ot re-initialze an existing one.
+4. git status--> this command will display the status of current repository.
+                 i.e waht files are not committed(staged, unstaged, untracked)
+NOTE: Newly created files has to be staged to committed.
+Staged Files: Files are added and are ready to committed.(dispalyed in GREEEN color)
+Un-staged files: Modified files will be displyed hare, we need to stage it to commit.(dispalyed in RED color)
+Un-tracked Files: Newly Created files need to be staged before commiting. (dispalyed in RED color)
+
+5. git add <file-name> --> This command is used to stagged the file.
+
+Stage AREA: the are where a file becomes eligible to commit is called stage.
