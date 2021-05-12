@@ -28,4 +28,6 @@ Note: when we execute commit command all files in staging area will be commmitte
 11.git push -u origin master--> will commit the code in  git reomte repo.---> Only fot first time
 from next time just use-->git push
 
+12. git rest HEAD <filename>--> used to unstage a file .
+
 
